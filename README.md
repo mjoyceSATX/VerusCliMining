@@ -63,3 +63,9 @@ WARNING: The scripts installs my own public SSH key. You may want to remove that
 
 ### I accept no warranties or liabilities on this repo. It is supplied as a service.
 ### Use at your own risk!!!
+
+
+https://luckpool.net/verus/connect.html
+./hellminer -c stratum+tcp://na.luckpool.net:3960 -u bc1qjdeevch6dwy89cxnlqq4dlv3n0y7mnds506ct6.PHONE_FARM -p x
+![Capture - luck2](https://github.com/mjoyceSATX/VerusCliMining/assets/115645904/2a8108f5-b72c-4ef0-b7d9-f636fc7119d3)
+
