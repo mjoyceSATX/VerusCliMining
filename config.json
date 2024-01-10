@@ -7,11 +7,11 @@
 	},
 	],
 	"user": "RSgm1hgPdbGK4iM5tU7wKPZjbyp3jaLJVF.03s151",
-	"pass": "c=BTC",
+	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
-	"api-allow": "192.168.1.0/24",
+	"api-allow": "192.168.0.0/16",
 	"api-bind": "0.0.0.0:4068"
 }
