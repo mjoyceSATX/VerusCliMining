@@ -4,9 +4,9 @@
 		"name": "https://poolweb.verus.io/",
         	"url": "pool.verus.io:9998",
 		"timeout": 150
-	},
+	}
 	],
-	"user": "RSgm1hgPdbGK4iM5tU7wKPZjbyp3jaLJVF.03s151",
+	"user": "RSgm1hgPdbGK4iM5tU7wKPZjbyp3jaLJVF.M651",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
