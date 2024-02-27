@@ -1,12 +1,12 @@
 {
 	"pools":[
 	{
-		"name": "https://poolweb.verus.io/",
-        	"url": "pool.verus.io:9998",
+		"name": "Verus",
+        	"url": "stratum+tcp://pool.verus.io:9998",
 		"timeout": 150
 	}
 	],
-	"user": "RSgm1hgPdbGK4iM5tU7wKPZjbyp3jaLJVF.M651",
+	"user": "RSgm1hgPdbGK4iM5tU7wKPZjbyp3jaLJVF.MXXX",
 	"pass": "x",
 	"algo": "verus",
 	"threads": 8,
